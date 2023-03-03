@@ -1,0 +1,173 @@
+
+body{
+    background-attachment: fixed;
+    background-image: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?w=900&t=st=1672817362~exp=1672817962~hmac=36e7b38daa4f718fcdcb651a45eeb1b293abe7095ea09ae51a4e05200295a12e);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+img{
+    width: 500px;
+  
+}
+
+.nearimg{
+    position: relative;
+    left:600px;
+    bottom: 500px;
+    font-size: 30px;
+    color: rgb(214, 143, 11);
+    
+}
+
+.img2{
+    position: relative;
+    bottom: 420px;
+    font-size: 30px;
+    color: rgba(6, 231, 231, 0.692);
+}
+
+.img3{
+    position: relative;
+    bottom: 400px;
+}
+
+h1{
+    color: chocolate;
+}
+
+h2{
+    color: brown;
+}
+
+.oho{
+    position: relative;
+    bottom: 400px;
+}
+
+.frut{
+    position: relative;
+    bottom: 720px;
+    font-size: 30px;
+    color: rgba(202, 247, 4, 0.534);
+    width: 800px;
+    left: 550px;
+}
+
+.tower{
+    position: relative;
+    bottom: 750px;
+}
+
+.tower2{
+    position: relative;
+    bottom: 1250px;
+    color: darkgray;
+    width: 600px;
+    left: 550px;
+    font-size: 25px;
+}
+
+.roblox{
+    color: rgb(0, 255, 64);
+}
+
+.oby{
+    position: relative;
+    color: darkblue;
+    font-size: 25px;
+    bottom: 1250px;
+}
+
+
+.wiki{
+    position: relative;
+    bottom: 1500px;
+    font-size: 25px;
+    color: cornflowerblue;
+    width: 600px;
+    left: 550px;
+
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+@media (min-width:600px) and (max-width:800px){
+    .wiki{
+        color: darkblue;
+    }
+    .jump{
+        color: darkturquoise;
+    }
+.oby{
+    color: greenyellow;
+}
+.roblox{
+    color: lawngreen;
+}
+.tower2{
+    font-size:10%;
+}
+
+}
+
+.yba{
+    color: brown;
+    position: relative;
+    bottom:1250px ;
+    width: 500px;
+    height: 450px;
+    font-size: 15px;
+    left: 5px;
+}
+
+
+.end{
+    position: relative;
+    bottom: 950px;
+    font-size: 70px;
+}
+
+.Standoff{
+    position: relative;
+    bottom: 1000px;
+    color: brown;
+    font-size: 25px;
+}
+
+.Standoff_2{
+    position: relative;
+    bottom: 990px;
+    width: 1000px;
+}
+
+.pupg{
+    position: relative;
+    color: brown;
+    bottom: 950px;
+    font-size: 19px;
+}
+
+.gd{
+    position: relative;
+    color: blueviolet;
+    bottom: 450px;
+    font-size: 20px;
+}
+
+.dg2{
+    position: relative;
+    bottom: 1970px;
+}
